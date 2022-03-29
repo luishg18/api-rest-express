@@ -56,6 +56,7 @@ if(app.get('env') == 'development'){
 
 // Operaciones con la base de datos 
 dbDebug('Conectando a la base de datos...');
+
 //app.use(logger);    // logger ya hace referencia a la función log (exports)
 
 //app.use(function(req, res, next){
